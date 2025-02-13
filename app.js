@@ -12,7 +12,7 @@ async function GetWeatherData() {
 
   try {
     const response = await fetch(
-      `http://api.weatherapi.com/v1/current.json?key=fc96ba419c344e00a3c70125251002&q=${location}&aqi=yes`
+      `https://api.weatherapi.com/v1/current.json?key=fc96ba419c344e00a3c70125251002&q=${location}&aqi=yes`
     );
 
     if (!response.ok) {
