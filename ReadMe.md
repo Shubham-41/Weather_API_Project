@@ -38,4 +38,4 @@ A simple weather application that lets users check the current weather of any ci
 
 ---
 
-# Completed on 13 February 2025
+# Completed on 13 February 2025 
