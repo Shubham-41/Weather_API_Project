@@ -36,6 +36,10 @@ A simple weather application that lets users check the current weather of any ci
 
 - [WeatherAPI](https://www.weatherapi.com/)
 
+## Website URL
+
+- [Live Site](https://easyweathernow.netlify.app/)
+
 ---
 
 # Completed on 13 February 2025 
